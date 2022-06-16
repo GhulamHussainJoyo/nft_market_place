@@ -1,0 +1,9 @@
+
+export const CREATE_NFT_REQUEST = 'CREATE_NFT_REQUEST';
+export const CREATE_NFT_SUCCESS = 'CREATE_NFT_SUCCESS';
+export const CREATE_NFT_FAIL = 'CREATE_NFT_FAIL';
+
+
+export const GET_NFT_REQUEST = 'GET_NFT_REQUEST';
+export const GET_NFT_SUCCESS = 'GET_NFT_SUCCESS';
+export const GET_NFT_FAIL = 'GET_NFT_FAIL';
